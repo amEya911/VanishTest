@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "eu.tutorials.blinkchat",
+      "sha256_cert_fingerprints": [
+        "30:73:20:BC:4C:FC:06:3F:47:CB:88:93:21:61:68:E5:85:33:86:A4:E8:96:15:D1:28:94:13:16:EB:6E:3D:9B"
+      ]
+    }
+  }
+]
